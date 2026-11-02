@@ -4,6 +4,15 @@ Cristian Moresi Nadal - 2º DAW SEMI
 API REST desarrollada con Node.js, Express y Mongoose.
 Base de datos MongoDB Atlas: eventos.
 
+ENLACES DE LA PRACTICA
+Repositorio: https://github.com/DAW-CMN/despliegue-practica1
+Servicio Render: https://despliegue-practica1.onrender.com
+Listado de recintos: https://despliegue-practica1.onrender.com/recintos
+Listado de eventos: https://despliegue-practica1.onrender.com/eventos
+
+El plan gratuito de Render se suspende tras un periodo de inactividad.
+La primera peticion puede tardar alrededor de un minuto en reactivarlo.
+
 EJECUCION EN LOCAL
 1. Instalar Node.js y npm. Proyecto comprobado con Node.js 24.
 2. Desde la carpeta del proyecto ejecutar: npm ci
