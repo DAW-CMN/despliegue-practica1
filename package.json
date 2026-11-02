@@ -1,0 +1,19 @@
+{
+  "name": "eventos-api",
+  "version": "1.0.0",
+  "description": "API REST para gestionar eventos, recintos y entradas",
+  "license": "ISC",
+  "author": "Cristian Moresi Nadal",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "seed": "node db_seed.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mongoose": "^9.11.4"
+  }
+}
